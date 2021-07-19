@@ -1,0 +1,141 @@
+[
+	{
+	  "id": 1,
+	  "name": "NUTS",
+	  "subcategories": [
+		{
+		  "id": 1,
+		  "name": "Almond"
+		},
+		{
+		  "id": 2,
+		  "name": "Cashew nut"
+		},
+		{
+		  "id": 3,
+		  "name": "Coconut"
+		},
+		{
+		  "id": 4,
+		  "name": "Groundnut"
+		}
+	  ]
+	},
+	{
+		"id": 2,
+		"name": "PULSES",
+		"subcategories": [
+			{
+				"id": 1,
+				"name": "Beans"
+			},
+			{
+				"id": 2,
+				"name": "Chickpeas"
+			},
+			{
+				"id": 3,
+				"name": "Lentils"
+			},
+			{
+				"id": 4,
+				"name": "Peas"
+			},
+			{
+				"id": 5,
+				"name": "Soybeans"
+			},
+			{
+				"id": 6,
+				"name": "Pigeon Peas"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "CEREALS",
+		"subcategories": [
+			{
+				"id": 1,
+				"name": "Rice"
+			},
+			{
+				"id": 2,
+				"name": "Sorghum"
+			},
+			{
+				"id": 3,
+				"name": "Maize"
+			},
+			{
+				"id": 4,
+				"name": "Wheat"
+			}
+
+		]
+	},
+	{
+		"id": 4,
+		"name": "AGRI EQUIPMENTS",
+		"subcategories": [
+			{
+				"id": 1,
+				"name": "Animal Feeding"
+			},
+			{
+				"id": 2,
+				"name": "Fertilizing & Pest Control"
+			},
+			{
+				"id": 3,
+				"name": "Tractor and power"
+			},
+			{
+				"id": 4,
+				"name": "Harvesting / post-harvest"
+			},
+			{
+				"id": 5,
+				"name": "Irrigation"
+			},
+			{
+				"id": 6,
+				"name": "Soil cultivation"
+			},
+			{
+				"id": 7,
+				"name": "Planting"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "ANIMAL PRODUCTS",
+		"subcategories": [
+			{
+				"id": 1,
+				"name": "Animal Skins"
+			},
+			{
+				"id": 2,
+				"name": "Beef"
+			},
+			{
+				"id": 3,
+				"name": "Eggs"
+			},
+			{
+				"id": 4,
+				"name": "Fish"
+			},
+			{
+				"id": 5,
+				"name": "Honey"
+			},
+			{
+				"id": 6,
+				"name": "Milk"
+			}
+		]
+	}
+]
