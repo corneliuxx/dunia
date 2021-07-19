@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "237982146210",
+    "firebase_url": "https://shambadunia-f90d9.firebaseio.com",
+    "project_id": "shambadunia-f90d9",
+    "storage_bucket": "shambadunia-f90d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237982146210:android:8b2acfad4a4ad68ece01fb",
+        "android_client_info": {
+          "package_name": "com.shambadunia.shambadunia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237982146210-fq1hik70h8qd1scsafbmqusalsid88qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shambadunia.shambadunia",
+            "certificate_hash": "3b5044414d6095aeb9ece7809072ba57fa871f8e"
+          }
+        },
+        {
+          "client_id": "237982146210-8v5m57or00l3hhocjtp8vg442fquoeg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQnEgSGYUDYlqodjvovAaR6zoG17HIlS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237982146210-8v5m57or00l3hhocjtp8vg442fquoeg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237982146210-tsjgfhaq43nnamvtr3kbbm1kj42h0g4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shambadunia.shambadunia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
